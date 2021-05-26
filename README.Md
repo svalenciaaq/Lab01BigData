@@ -148,4 +148,12 @@ Por ultimo comprobamos que los archivos se cargaron exitosamente
 ## **Bucket Publico S3**
 
 Para efectos de comprobacion se adjunta la direccion url del bucket 
-S3
+S3.
+
+Se debe tener en cuenta que este bucket es diferente debido a que el bucket donde se desarollo el resto de laboratorio se perdio debido a la unificacion de las cuentas
+
+https://svalenciaa2.s3.amazonaws.com/
+
+como ejemplo se invita a entrar a este link
+
+https://svalenciaa2.s3.amazonaws.com/DatasetsHue/airlines.csv
