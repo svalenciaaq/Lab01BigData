@@ -145,7 +145,7 @@ Por ultimo comprobamos que los archivos se cargaron exitosamente
 ![lab23](img/lab23.PNG)
 
 
-## Bucket Publico S3
+## **Bucket Publico S3**
 
 Para efectos de comprobacion se adjunta la direccion url del bucket 
 S3
